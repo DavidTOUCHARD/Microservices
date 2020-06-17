@@ -1,6 +1,6 @@
 # Microservices
 
-- Eureka service : microservice d'enregistrement (port 8761)
+- Eureka service : microservice d'enregistrement (port 8761) localhost:9761/eureka
 - Gateway : definition des routes (port 8888)
 - Customer service : microservice des clients (port 8081) localhost:8888/CUSTOMER-SERVICE/  * * *
 - Inventory service : microservice des produits (port 8082) localhost:8888/INVENTORY-SERVICE/  * * * 
