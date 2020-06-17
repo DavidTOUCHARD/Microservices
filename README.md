@@ -6,3 +6,5 @@
 - Inventory service : microservice des produits (port 8082) localhost:8888/INVENTORY-SERVICE/  * * * 
 - Billing service : microservice des achats (port 8083) localhost:8888/BILLING-SERVICE/  * * *
 - Location service : microservice des magasins et adresses (port 8084) localhost:8888/LOCATION-SERVICE/  * * *
+
+Monitoring : localhost:9999/hystrix
